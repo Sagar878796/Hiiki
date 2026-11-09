@@ -2517,15 +2517,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
 #EXTINF:-1,2026 [English]
 https://in-mc-flive.fancode.com/mumbai/4250207_english_hls_f0ca20d9c497736_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794332819~_GO=Generated~acl=/mumbai/4250207_english_hls_f0ca20d9c497736_1ta-di_h264/*~SessionID=f4cbdbe5611c1d8a78a893de066741e6_playbox_88a3ed4d-1eb9-4e~Signature=AbO9Bjgz0cDLOcvdrqq2BEt-PSgHT8up1YDhCOISBwuQwq0cHQ7h2zfjEUuvdJCMbSOxg3sjf75xx_kA_hFayCBlIkMI
-#EXTINF:-1,ATP 250 - Bybit Stockholm Open 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250582_english_hls_1fc5d1716c90892_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794311606~_GO=Generated~acl=/mumbai/4250582_english_hls_1fc5d1716c90892_1ta-di_h264/*~SessionID=7dab035ef414605bbc98aea7fe6f5a56_playbox_7b631175-eb15-41~Signature=AbO9BjhKtuNNEdRp8juquHqS9vDx8IGmVYfkTnWOoCGPmncUDvFxpnZpjob-GQQ_pRDSmpjvkOalxbKXZ0D569Tu_bcJ
 #EXTINF:-1,ENG | West Indies A Vs England Lions
 https://dai-fancode.pages.dev/mumbai/4250207_english_hls_f0ca20d9c497736_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1,ENG | World Feed
-https://dai-fancode.pages.dev/mumbai/4250582_english_hls_1fc5d1716c90892_1ta-di_h264/index.m3u8|User-Agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1&Referer=https://fancode.com/
-#EXTINF:-1,Triton Poker ONE Series Cyprus-$5K NLH Mystery Bounty
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
 #EXTINF:-1,Tennis Today Live-Stockholm-ATP & Orleans-ATP Early Rounds
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-#EXTINF:-1,Orleans 2026 - Early Rounds - 2
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
