@@ -2515,5 +2515,13 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Life_MOB/WDVLive/index.mpd
 https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTINF:-1,Chintu TV
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
-#EXTINF:-1,Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd
+#EXTINF:-1,2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794489787~_GO=Generated~acl=/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/*~SessionID=90a8ce67b5171d74158c730fd112cd2f_playbox_dc8800b8-bbcb-44~Signature=AbO9BjhQmFNzBP6SL_HY7A6nglDqhDoLo2CLAhHkCVTJwKUAWkqGRUmAgwQmPe_uBeW5kGMcnTYLq54_VBNzjk9DYCwJ
+#EXTINF:-1,ATP 250 - Bybit Stockholm Open 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4250584_english_hls_c1701137e188329_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794484335~_GO=Generated~acl=/mumbai/4250584_english_hls_c1701137e188329_1ta-di_h264/*~SessionID=35d31f4cf463b5cc003da57a0a7ccd0e_playbox_8b9277dd-8c1e-40~Signature=AbO9Bjg6y10LuHqZQxYjhcI28KWipSLLjhG9pbI3xNx9FnJL5rhCAMtyBebiCxUe2oMkfODUufmaE4ectGJKC41UPvMO
+#EXTINF:-1,Triton ONE Poker Series Cyprus-$8K Main Event
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ppzmljumfr/out/v1/25e29b9f67954e16badd296287c53359/cenc.mpd
+#EXTINF:-1,Abu Dhabi T10 League 2026 - 11th Match - Royal Desert Champions vs UAE Bulls
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/siet7wbiya/out/v1/a5482739bd194c0ca1cd0e7af78d402a/cenc.mpd
+#EXTINF:-1,Orleans 2026 - Early Rounds - 6
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
