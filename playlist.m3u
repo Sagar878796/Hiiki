@@ -1500,9 +1500,9 @@ https://ranapkz.site/RANAPKX73/MAXCDNx/play.php?id=373312
 #EXTINF:-1,Unite8 Sports 2 HD
 https://ranapkz.site/RANAPKX73/MAXCDNx/play.php?id=372989
 #EXTINF:-1,Unite8 Sports 1 HD | TATA PLAY
-https://ranapkz.site/RANAPKX73/MAXCDNx/play.php?id=373312
-#EXTINF:-1,Unite8 Sports 2 HD
-https://ranapkz.site/RANAPKX73/MAXCDNx/play.php?id=372989
+http://tv.cloudcdn.me/live.ts?channelId=134096&uid=5410&deviceMac=00:1A:79:0E:F8:A1
+#EXTINF:-1,Unite8 Sports 2 HD | TATA PLAY
+http://tv.cloudcdn.me/live.ts?channelId=134125&uid=5410&deviceMac=00:1A:79:0E:F8:A1
 #EXTINF:-1,TNT Sports 1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 #EXTINF:-1,TNT Sports 2
@@ -2515,15 +2515,5 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Life_MOB/WDVLive/index.mpd
 https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTINF:-1,Chintu TV
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
-#EXTINF:-1,2026/27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249671_english_hls_4ea963994d30090_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794439473~_GO=Generated~acl=/mumbai/4249671_english_hls_4ea963994d30090_1ta-di_h264/*~SessionID=62d205fe15efd2d99b49d22effd0f8ec_playbox_a953302f-4a83-47~Signature=AbO9BjjQSkk2v1PdrykevWQ0HEz7Qs8lqDbW3QBrrifLN9EB4LfILtIYCqLY-mhszldGjvOkSdCuojzUqEnKDrla3OgN
-#EXTINF:-1,2026/27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249672_english_hls_774ea9bc0e36342_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794439474~_GO=Generated~acl=/mumbai/4249672_english_hls_774ea9bc0e36342_1ta-di_h264/*~SessionID=9db1e7bf46f68959c43c490f57b4b372_playbox_60c8685e-6604-4b~Signature=AbO9BjiWxEVomN_Plign6jGd02T9tJ5mne_TXLAun_D1xG2uqpyhDVBzWbYXxmWKvlRxrMTnohDhCMMaipzdoBwvzmgG
-#EXTINF:-1,2026/27 [English]
-https://in-mc-flive.fancode.com/mumbai/4249673_english_hls_1f70f8c9aa29270_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794441292~_GO=Generated~acl=/mumbai/4249673_english_hls_1f70f8c9aa29270_1ta-di_h264/*~SessionID=67d179ce3a51ec681a210437a480ae56_playbox_22d338fe-53e7-47~Signature=AbO9Bji-M6FCycA1f3qYQjJ6GugplRsIggPF4_cJsMt4EvAaX5R6qiw3YcmEOdLgZ0aEtt1cS740aLOjOpfECfs4B6oM
-#EXTINF:-1,WTGL 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4250613_english_hls_98ee7ecb1235663_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794444323~_GO=Generated~acl=/mumbai/4250613_english_hls_98ee7ecb1235663_1ta-di_h264/*~SessionID=6cfae2e3e798e15ecc99e125cda52b32_playbox_7b8130ca-b971-42~Signature=AbO9BjiEc4u7ZFXfP6qMAD3JbrvbltckiBYsYS8yomwheX8yOl-yOwoPe_V-Bb4mE2H8GYsgMzWUTQl-UB2JKqujH4wE
-#EXTINF:-1,WPT Venetian Fall Championship Final Table
-https://ABDTF4AAAAAAAAAMJX6U2XZHRJH7X.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprBz7dBhpq83hdA2pjbG91ZGZyb250AngoZmlkOjAxYTFjNzBlLTJkZTUtNzI1NC1iYWE2LTg4MWM0YjhiNmY3YRkBOKEFoQJ4My9jYzNycHNxcXRrL291dC92MS9jNjZmMjM0NzE1NDE0MzQ0YTA1MmNmMjlmMzkwMTZjZFgg8FbQn9a0S2PF8qPdnnVayKbCnvybKuDfwptvYDPwHkI/CMH/f6038b88aa69447da4a3e793b671fb13/v1/dash/791992545818/imdb_amagi_amzn1_dv_live_csid_6336badc-8cb2-43b0-8106-8e7dfe05ae41_us-east-1_cmh_dash_h264/startover/clients/dash/manipulated-manifest-iad-prod/enc/cc3rpsqqtk/out/v1/c66f234715414344a052cf29f39016cd/de126b07-78e0-4661-890c-075278c8af6f-cenc.mpd?aws.sessionId=7c57ed8e-f10f-458e-a46a-39c91212ff26
-#EXTINF:-1,Gardner-Webb vs Elon - Women's Volleyball
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5sxp9uvyez/out/v1/4484a71af5204219a7881175306e68a9/cenc.mpd
+#EXTINF:-1,Sri Lanka tour of Pakistan 2026 - 1st Test - Pakistan vs Sri Lanka
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dfryu4gk64/out/v1/491b1b4d8ff74cb2bc337737aff1412b/cenc.mpd
