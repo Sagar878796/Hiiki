@@ -2515,19 +2515,33 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Life_MOB/WDVLive/index.mpd
 https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTINF:-1,Chintu TV
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
-#EXTINF:-1,Exeter City vs Cheltenham Town (League Two 2026-27)
-https://in-mc-flive.fancode.com/mumbai/4250001_english_hls_7b1c006a2e40065_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794744984~_GO=Generated~acl=/mumbai/4250001_english_hls_7b1c006a2e40065_1ta-di_h264/*~SessionID=122002764__671819ec-2bc9-40~Signature=AbO9BjhfqTIoTksZjtctDr8r9unOuFFVeF96TpA5hH86CYlEeJuPvmDgQ1e1G7YL4aaqoUUl0bKaizFKwCBJlbXAC_gD
-#EXTINF:-1,Kosovo vs Israel - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794710640~acl=/*~id=91015570813043225155207023974280~hmac=724f6b864a3572d91353bc7eeeebf043063f10130c9ceca9e90f21b7be9ef5f9
-#EXTINF:-1,Northern Series: Wales v New Zealand
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
-#EXTINF:-1,Lethwei Fighting Championship 1
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+#EXTINF:-1,Portugal vs Denmark - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794728827~acl=/*~id=93342057713918944739226635368020~hmac=be588fd46f9e6093f05243e26f5572e98c59dce4192db98ed40c88e9a9482b29
+#EXTINF:-1,Romania vs Poland - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2022316/footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794728827~acl=/*~id=93342057713918944739226635368020~hmac=be588fd46f9e6093f05243e26f5572e98c59dce4192db98ed40c88e9a9482b29
+#EXTINF:-1,Sweden vs Bosnia and Herzegovina - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2022317/footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794728827~acl=/*~id=93342057713918944739226635368020~hmac=be588fd46f9e6093f05243e26f5572e98c59dce4192db98ed40c88e9a9482b29
+#EXTINF:-1,Northern Ireland vs Ukraine - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794728827~acl=/*~id=93342057713918944739226635368020~hmac=be588fd46f9e6093f05243e26f5572e98c59dce4192db98ed40c88e9a9482b29
+#EXTINF:-1,Austria vs Republic of Ireland - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2022320/footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794728827~acl=/*~id=93342057713918944739226635368020~hmac=be588fd46f9e6093f05243e26f5572e98c59dce4192db98ed40c88e9a9482b29
+#EXTINF:-1,Central Connecticut vs. Long Island Sharks
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/nl9acyq8n3/out/v1/5dc4b6dd4c094ccb8c3c92e03e87cda7/cenc.mpd
+#EXTINF:-1,2026 Professional Bowlers Association Elite Tour: Central Regional
+https://ABBJK35AAAAAAAAMG7CHHU45WRHTL.ta-enf.emt-cf.live.pv-cdn.net/$T$2D3RhEOhAQWhBFgkYzQ1OWU1YmItZDgxMS00NGM2LTgwYzQtNTNkZDc3NTIwODk5WIymAWpwcmltZXZpZGVvBBprDGGxBhpq-JsxA2pjbG91ZGZyb250AngoZmlkOjAxYTFkYjFlLTM3OGQtNzJhZC1hNDJmLTI3ZDVkZTQxYjFiNBkBOKEFoQJ4My9rc3B0OHNtcHNlL291dC92MS9lODVhODI2MjYyMGM0OGEwYjdjNGIxODVhNTNjMjhlNVgg9oMpoB8nQHDVS9D4sPrqAQYT1H8EtiYtP386t7A3b0M/CMH/c637e40a93cd4368ae24c85f12da7687/v1/dash/159325541587/imdb_ottera_amzn1_dv_live_csid_610ccc26-479b-4d79-8c18-5ac0e6ceff38_us-east-1_cmh_dash_h264_none_stereo/startover/clients/dash/manipulated-manifest-iad-prod/enc/kspt8smpse/out/v1/e85a8262620c48a0b7c4b185a53c28e5/8dff2d44-d524-4198-8dbd-df91e231843b-cenc.mpd?aws.sessionId=9393951f-589c-46e4-acb0-02ee15315a06
 #EXTINF:-1,Triton Poker ONE Series Cyprus-$8K Main Event
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
+#EXTINF:-1,American Poolplayers Association Billiards-2026 American Poolplayers Association: U.S. Amateur Championships
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4ydvmoa9t/out/v1/73c73d5ac64146c2b7b133cac333a24c/cenc.mpd
+#EXTINF:-1,HSR Daytona Classic 24 Hour
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+#EXTINF:-1,Towson vs. Rhode Island
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd
+#EXTINF:-1,Romania vs. Poland
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xtkswns2yn/out/v1/9c348c1bc962495a9420f01ac0964a86/cenc.mpd
+#EXTINF:-1,AHA Hockey: Penn State vs Mercyhurst - Women's
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/kxpg5rl6v6/out/v1/8f60215ae257441e8b1cbe44c31839b1/cenc.mpd
+#EXTINF:-1,Brighton & Hove Albion vs. Liverpool
+https://hls-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 #EXTINF:-1,Orleans 2026 - Singles & Doubles Semifinals - 11
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-#EXTINF:-1,Manchester United vs. Crystal Palace
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-#EXTINF:-1,Abu Dhabi T10 League 2026 - 17th Match - Arabian Aces vs Emirates Eagles
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k5yg9k44sh/out/v1/b111c9899c3d489c819ba8bddc1e258f/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
