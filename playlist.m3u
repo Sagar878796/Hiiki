@@ -1607,7 +1607,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/TV27_News_MOB/WDVLive/index.mpd
 https://jiotvmblive.cdn.jio.com/bpk-tv/22Scope_News_MOB/WDVLive/index.mpd
 #EXTINF:-1,History HD NW18
 https://nw18live.cdn.jio.com/bpk-tv/History_HD_NW18_MOB/output01/index.m3u8
-#EXTINF:-1,CNBC Tv18 Prime HD NW18
+#EXTINF:-1,CNBC Tv18 Prime
 https://nw18live.cdn.jio.com/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
 #EXTINF:-1,India 24x7
 https://jiotvmblive.cdn.jio.com/bpk-tv/India24x7_MOB/WDVLive/index.mpd
@@ -2515,23 +2515,19 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Life_MOB/WDVLive/index.mpd
 https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTINF:-1,Chintu TV
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
-#EXTINF:-1,Pakistan vs India - Final - 14 Nov 2026 [ENG] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71
-#EXTINF:-1,Pakistan vs India - Final - 14 Nov 2026 [HIN] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71
-#EXTINF:-1,Pakistan vs India - Final - 14 Nov 2026 [TAM] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71
-#EXTINF:-1,Pakistan vs India - Final - 14 Nov 2026 [TEL] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71
-#EXTINF:-1,Pakistan vs India - Final - 14 Nov 2026 [KAN] - ACC Men's U19 Asia Cup 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71
-#EXTINF:-1,Dubai - Day 3 - 14 Nov 2026 [ENG] - DP World Tour
-https://sonyeventsglobal.akamaized.net/hls/live/2005444/Golf_DPW1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71
-#EXTINF:-1,Afghanistan vs. Zimbabwe
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0bftapixow/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
-#EXTINF:-1,ACC Mens U19 Asia Cup 2026 - Final - Pakistan U19 vs India U19
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jqiewsbcdo/out/v1/c61fbf5480da4d94a2cd238d8be4b227/cenc.mpd
-#EXTINF:-1,Afghanistan vs Zimbabwe in UAE 2026 - 2nd Test - Afghanistan vs Zimbabwe
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kyet9ip63b/out/v1/5442e2d930ff4dd18be5ba46198ac3f8/cenc.mpd
-#EXTINF:-1,Womens Big Bash League 2026 - 21st Match - Hobart Hurricanes Women vs Brisbane Heat Women
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ikrdf6tcyz/out/v1/5acd8a40131447a69dcbf4bbd8ba39d3/cenc.mpd
+#EXTINF:-1,Exeter City vs Cheltenham Town (League Two 2026-27)
+https://in-mc-flive.fancode.com/mumbai/4250001_english_hls_7b1c006a2e40065_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794744984~_GO=Generated~acl=/mumbai/4250001_english_hls_7b1c006a2e40065_1ta-di_h264/*~SessionID=122002764__671819ec-2bc9-40~Signature=AbO9BjhfqTIoTksZjtctDr8r9unOuFFVeF96TpA5hH86CYlEeJuPvmDgQ1e1G7YL4aaqoUUl0bKaizFKwCBJlbXAC_gD
+#EXTINF:-1,Kosovo vs Israel - 14 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794710640~acl=/*~id=91015570813043225155207023974280~hmac=724f6b864a3572d91353bc7eeeebf043063f10130c9ceca9e90f21b7be9ef5f9
+#EXTINF:-1,Northern Series: Wales v New Zealand
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/z1mmauev4g/out/v1/40b826b7f7d449559a5e4e3c2ac3fca2/cenc.mpd
+#EXTINF:-1,Lethwei Fighting Championship 1
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/igtio3ifkx/out/v1/3e305fd8d7eb4c489e80a71513206a7d/cenc.mpd
+#EXTINF:-1,Triton Poker ONE Series Cyprus-$8K Main Event
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
+#EXTINF:-1,Orleans 2026 - Singles & Doubles Semifinals - 11
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+#EXTINF:-1,Manchester United vs. Crystal Palace
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
+#EXTINF:-1,Abu Dhabi T10 League 2026 - 17th Match - Arabian Aces vs Emirates Eagles
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/k5yg9k44sh/out/v1/b111c9899c3d489c819ba8bddc1e258f/cenc.mpd
