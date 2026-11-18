@@ -2515,25 +2515,7 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Life_MOB/WDVLive/index.mpd
 https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTINF:-1,Chintu TV
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
-#EXTINF:-1,Wales vs Portugal - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120306/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794987872~acl=/*~id=80181980074149027956104076680881~hmac=c900898d4c9e361850d3127ea05fe9d29ceed7e75b594a29d03c28d5bac3d193
-#EXTINF:-1,Denmark vs Norway - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794987872~acl=/*~id=80181980074149027956104076680881~hmac=c900898d4c9e361850d3127ea05fe9d29ceed7e75b594a29d03c28d5bac3d193
-#EXTINF:-1,Poland vs Sweden - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120300/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794987872~acl=/*~id=80181980074149027956104076680881~hmac=c900898d4c9e361850d3127ea05fe9d29ceed7e75b594a29d03c28d5bac3d193
-#EXTINF:-1,Hungary vs Northern Ireland - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120307/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794987872~acl=/*~id=80181980074149027956104076680881~hmac=c900898d4c9e361850d3127ea05fe9d29ceed7e75b594a29d03c28d5bac3d193
-#EXTINF:-1,Israel vs Austria - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794987872~acl=/*~id=80181980074149027956104076680881~hmac=c900898d4c9e361850d3127ea05fe9d29ceed7e75b594a29d03c28d5bac3d193
-#EXTINF:-1,Bosnia and Herzegovina vs Romania - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794987872~acl=/*~id=80181980074149027956104076680881~hmac=c900898d4c9e361850d3127ea05fe9d29ceed7e75b594a29d03c28d5bac3d193
-#EXTINF:-1,Ukraine vs Georgia - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794987872~acl=/*~id=80181980074149027956104076680881~hmac=c900898d4c9e361850d3127ea05fe9d29ceed7e75b594a29d03c28d5bac3d193
-#EXTINF:-1,Republic of Ireland vs Kosovo - 18 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120308/footlive1711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794987872~acl=/*~id=80181980074149027956104076680881~hmac=c900898d4c9e361850d3127ea05fe9d29ceed7e75b594a29d03c28d5bac3d193
-#EXTINF:-1,Triton Poker Series Cyprus-$25K NLH Titi Poker
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
-#EXTINF:-1,Helsinki-ATP Early Rounds
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
-#EXTINF:-1,Israel vs. Austria
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/y3mtc7phj2/out/v1/a48ab8dfd51c4d1f9a08774b3cd4c49e/cenc.mpd
+#EXTINF:-1,Marist vs. Monmouth
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd
+#EXTINF:-1,Texas State at Colorado State
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
