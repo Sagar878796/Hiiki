@@ -1,10 +1,9 @@
-
-name: Update JSON and M3U
+name: Update M3U Playlist
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/10 * * * *"
+    - cron: "0 */6 * * *"
 
 permissions:
   contents: write
@@ -14,51 +13,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch Worker Response
+      - name: Download playlist
         run: |
-          curl -L --fail \
-          "https://jiostbplus.saregojo99.workers.dev/m3u" \
-          -o response.json
+          curl -L --fail --retry 3 \
+            "https://jiostbplus.saregojo99.workers.dev/m3u" \
+            -o playlist.m3u
+        env:
+          PLAYLIST_URL: ${{ secrets.PLAYLIST_URL }}
 
-      - name: Validate JSON
+      - name: Validate playlist
         run: |
-          python -m json.tool response.json > playlist.json
+          if ! grep -q "#EXTM3U" playlist.m3u; then
+            echo "Invalid M3U playlist"
+            exit 1
+          fi
 
-      - name: Generate M3U
-        run: |
-          python - <<'PY'
-          import json
-
-          with open("playlist.json", encoding="utf-8") as f:
-              data = json.load(f)
-
-          channels = data if isinstance(data, list) else data.get("channels", [])
-
-          lines = ["#EXTM3U"]
-
-          for ch in channels:
-              if not isinstance(ch, dict):
-                  continue
-
-              name = ch.get("name") or ch.get("title")
-              url = ch.get("url") or ch.get("stream_url")
-
-              if name and url:
-                  lines.append(f'#EXTINF:-1,{name}')
-                  lines.append(url)
-
-          with open("playlist.m3u", "w", encoding="utf-8") as f:
-              f.write("\n".join(lines) + "\n")
-          PY
-
-      - name: Commit and Push
+      - name: Commit updated playlist
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add playlist.json playlist.m3u
-          git diff --cached --quiet || git commit -m "Update JSON and M3U"
+          git add playlist.m3u
+          git diff --cached --quiet || git commit -m "Update playlist"
           git push
-          
