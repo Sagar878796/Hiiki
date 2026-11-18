@@ -20,7 +20,7 @@ jobs:
       - name: Fetch Worker Response
         run: |
           curl -L --fail \
-          "https://lemajekaat.streamxlive.workers.dev/" \
+          "https://jiostbplus.saregojo99.workers.dev/m3u" \
           -o response.json
 
       - name: Validate JSON
