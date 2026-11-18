@@ -2515,7 +2515,9 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Life_MOB/WDVLive/index.mpd
 https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTINF:-1,Chintu TV
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
-#EXTINF:-1,Marist vs. Monmouth
-https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/zjdnqq95oj/out/v1/fd5d4e3210f24d9e99d13c01dbe21e75/cenc.mpd
-#EXTINF:-1,Texas State at Colorado State
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ed2ez0prtb/out/v1/811d58e2ba00485eb2a4d5724a2ba196/cenc.mpd
+#EXTINF:-1,Australia vs. England
+https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/aywqinj3vc/out/v1/49441817748348bf8b20205da90af5fa/cenc.mpd
+#EXTINF:-1,Bangladesh tour of South Africa 2026 - 1st Test - South Africa vs Bangladesh
+https://dash-ott.bia-cf.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/phoqztxsmq/out/v1/5fb252d563bb47cdb5f829c0674633cf/cenc.mpd
+#EXTINF:-1,Sri Lanka tour of Pakistan 2026 - 2nd Test - Pakistan vs Sri Lanka
+https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w6dgdlcx03/out/v1/04ed50f3a2eb429b87ed5d70b737dd46/cenc.mpd
